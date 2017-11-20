@@ -10,7 +10,7 @@ namespace ieCI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("start" + DateTime.Now);
+            Console.WriteLine("started:" + DateTime.Now);
             Console.ReadLine();
         }
     }
